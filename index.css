@@ -44,6 +44,10 @@ ol > li::marker {
   font-weight: bold;
 }
 
+li {
+    padding: 0.5rem 0rem;
+}
+
 body {
     font-family: var(--body-font);
     font-size: 16px;
